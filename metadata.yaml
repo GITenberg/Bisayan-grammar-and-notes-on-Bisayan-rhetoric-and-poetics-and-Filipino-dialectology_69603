@@ -1,0 +1,32 @@
+_repo: Bisayan-grammar-and-notes-on-Bisayan-rhetoric-and-poetics-and-Filipino-dialectology_69603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Romuáldez, Norberto
+    aliases:
+    - López, Norberto Romuáldez y
+    - Lopez, Norberto Romualdez y
+    - Romualdez, Norberto
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '55342'
+    url: http://www.gutenberg.org/2009/agents/55342
+    wikipedia: https://en.wikipedia.org/wiki/Norberto_Romualdez
+description: ''
+gutenberg_issued: '2022-12-22'
+identifiers:
+  gutenberg: '69603'
+  lccn: '75327415'
+language: en
+pgterms:marc904: https://archive.org/details/bisayangrammarno00romurich/page/n3/mode/2up
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waray language -- Grammar'
+- !lcc 'PL'
+- GITenberg
+title: Bisayan grammar and notes on Bisayan rhetoric and poetics and Filipino dialectology
+url: http://www.gutenberg.org/ebooks/69603
