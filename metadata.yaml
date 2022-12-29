@@ -1,5 +1,8 @@
 _repo: Bisayan-grammar-and-notes-on-Bisayan-rhetoric-and-poetics-and-Filipino-dialectology_69603
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69603-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Romuáldez, Norberto
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55342
     wikipedia: https://en.wikipedia.org/wiki/Norberto_Romualdez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69603#Bisayan-grammar-and-notes-on-Bisayan-rhetoric-and-poetics-and-Filipino-dialectology
 gutenberg_issued: '2022-12-22'
 identifiers:
   gutenberg: '69603'
